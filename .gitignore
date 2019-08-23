@@ -1,0 +1,10 @@
+node_modules/
+build/
+.vscode/
+package-lock.json
+*.ai
+*.log
+*.pdf
+*.psd
+npm-debug.*
+Thumbs.db
