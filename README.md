@@ -80,6 +80,7 @@ src
     blocks
       **/*.scss
     global
+      display-none.scss
       fonts.scss
       normilize.scss
       scaffolding.scss
